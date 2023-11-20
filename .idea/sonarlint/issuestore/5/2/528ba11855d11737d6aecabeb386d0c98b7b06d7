@@ -1,0 +1,33 @@
+
+R
+java:S1854"7Remove this useless assignment to local variable "MAX".(ùÅ¦üýÿÿÿÿ
+C
+java:S1481"(Remove this unused "MAX" local variable.(ùÅ¦üýÿÿÿÿ
+Q	java:S125""<This block of commented-out lines of code should be removed.(Ëäê¥
+V	java:S125)"<This block of commented-out lines of code should be removed.(õ÷Çµÿÿÿÿÿ
+K
+java:S1854P"5Remove this useless assignment to local variable "i".(ÅÑž÷
+L
+java:S1854L"6Remove this useless assignment to local variable "lz".(Ó²Šî
+Q
+java:S1854K"6Remove this useless assignment to local variable "gg".(œßâ¨ýÿÿÿÿ
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(¢ïüÅ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(æçëÇ
+B
+java:S1481K"'Remove this unused "gg" local variable.(œßâ¨ýÿÿÿÿ
+=
+java:S1481L"'Remove this unused "lz" local variable.(Ó²Šî
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(Õš´¯ùÿÿÿÿ
+V	java:S125N"<This block of commented-out lines of code should be removed.(±ÆŠŒüÿÿÿÿ
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(ÅÑž÷
+T
+java:S5993Y"9Change the visibility of this constructor to "protected".(‚Çúùûÿÿÿÿ
+P
+java:S1118n":Add a private constructor to hide the implicit public one.(Ë£¢­
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÅ¦üýÿÿÿÿ
+u
+java:S1488 "ZImmediately return this expression instead of assigning it to the temporary variable "le".(ŸÈ€²øÿÿÿÿ
+Y
+java:S2184>"CCast one of the operands of this subtraction operation to a "long".(¤éµ²
+V
+java:S2184?"@Cast one of the operands of this addition operation to a "long".(†³Í×

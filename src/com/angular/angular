@@ -1,0 +1,36 @@
+<ng-container *ngFor="let t of transactions">
+  <transaction-details
+    [currency]="t.currency"
+    [fee]="t.fee"
+    [amount]="t.amount"
+    [timeOfTransaction]="t.timeOfTransaction"
+  ></transaction-details>
+  <hr />
+</ng-container>
+
+
+
+// Fix classes Name and Sort
+@Pipe({ name: 'name' })
+export class Name implements PipeTransform {
+  transform(person: { firstName: string; lastName: string }, name: boolean = false): string {
+    if (name) {
+      return `${person.lastName} ${person.firstName}`; // Fixed typos here
+    } else {
+      return `${person.firstName} ${person.lastName}`; // Fixed typos here
+    }
+  }
+}
+
+@Pipe({ name: 'sort' })
+export class Sort implements PipeTransform {
+  transform(value: string, sort: string = 'backwards'): string {
+    if (sort === 'same') {
+      return value;
+    } else if (sort === 'backwards') {
+      return value.split('').reverse().join('');
+    } else {
+      return value;
+    }
+  }
+}

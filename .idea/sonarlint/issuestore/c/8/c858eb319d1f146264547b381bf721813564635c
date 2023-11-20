@@ -1,0 +1,15 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(‡Û½àıÿÿÿÿ8İäŒ¢‘/
+Z
+java:S1854"8Remove this useless assignment to local variable "pred".(ş–áòşÿÿÿÿ8Áº¢‘/
+Q
+java:S1611"/Remove the parentheses around the "s" parameter(ş–áòşÿÿÿÿ8°‘è¡‘/
+X	java:S125"<This block of commented-out lines of code should be removed.(÷ª8ŸÁ¿¡‘/
+M
+java:S1481"+Remove this unused "string" local variable.(†ïµ”ùÿÿÿÿ8ˆí´¡‘/
+H
+java:S1481"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ8õä®¡‘/
+Q
+java:S1611"/Remove the parentheses around the "s" parameter(Âşş£üÿÿÿÿ8ó×»¢‘/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡ Ğïıÿÿÿÿ8¨Ëï¡‘/
+X	java:S125"<This block of commented-out lines of code should be removed.(Ïª˜Ê8ˆí´¡‘/
